@@ -1,0 +1,20 @@
+{
+  "name": "ReservaSalon",
+  "version": "1.0.0",
+  "description": "Repository to start a project to have a database for all the places to celebrate something special.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tita-Navarro/Reserva-Salon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tita-Navarro/Reserva-Salon/issues"
+  },
+  "homepage": "https://github.com/Tita-Navarro/Reserva-Salon#readme"
+}
